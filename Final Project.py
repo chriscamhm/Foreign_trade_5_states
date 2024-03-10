@@ -13,12 +13,6 @@
 # 
 # Firstly, I proceed to import the libraries:
 
-# In[3]:
-
-
-pip install gitpython
-
-
 # In[2]:
 
 
